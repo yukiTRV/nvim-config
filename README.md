@@ -26,10 +26,10 @@ To enable copy/paste support you'll need to install a clipboard manager, my pers
   ```
 ## Fonts
 
-- [A Nerd Font](https://www.nerdfonts.com/) I personally use JetBrains Mono Nerd Font.
+- [A Nerd Font](https://www.nerdfonts.com/). I personally a Nerd Font patched version of JetBrains Mono.
 
 You can install it in Arch Linux using yay or any other AUR manager:
     
-    ```sh
-    yay -S nerd-fonts-jetbrains-mono
-    ```
+  ```sh
+  yay -S nerd-fonts-jetbrains-mono 
+  ```
