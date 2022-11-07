@@ -1,0 +1,7 @@
+require ("core.options")
+require ("core.packer")
+require ("core.keymaps")
+require ("plugins.colorscheme")
+require ("plugins.lualine")
+require ("plugins.treesitter")
+require ("plugins.impatient")
